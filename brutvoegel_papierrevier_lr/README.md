@@ -8,6 +8,6 @@ A QGIS 3 plugin for automated territory mapping of breeding birds (Papierrevier-
 * **Spatial Clustering:** Single-linkage metric clustering with a dynamic anti-chain rule to prevent unnaturally stretched territories.
 * **Smart Splitting:** Divides massive clusters lacking a confirmed breeding status into multiple logical territories.
 * **Geometry Generation:** Creates convex hulls with a precise 1.5m buffer for polygons and calculates true centroids.
-
+* **Please allways manually proof the results:** 
 ## Installation
 Currently available via manual ZIP install or the QGIS Plugin Repository.
