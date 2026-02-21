@@ -1,0 +1,14 @@
+[general]
+name=Brutvögel_Papierrevier_LR
+qgisMinimumVersion=3.0
+description=Automated territory mapping using spatial and temporal criteria (Südbeck standard).
+version=1.0
+author=Lienus Rob
+email=lienus.rob@hotmail.de
+about=This plugin automates the paper mapping method for avifaunistic surveys. It features spatial clustering, a time criterion (phenology), and hierarchical breeding status recognition.
+tracker=https://github.com/lienusrob/brutvoegel_papierrevier_lr/issues
+repository=https://github.com/lienusrob/brutvoegel_papierrevier_lr
+homepage=https://github.com/lienusrob/brutvoegel_papierrevier_lr
+category=Vector
+tags=ornithology, biology, birds, territory, mapping, clustering
+changelog=Version 1.0: Initial release with Südbeck mapping, anti-chain rule and time criterion.
